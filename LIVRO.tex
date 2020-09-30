@@ -16,6 +16,14 @@
 \usepackage{gitrevisioninfo}
 
 
+\makeatletter
+\def\@xfootnote[#1]{%
+  \protected@xdef\@thefnmark{#1}%
+  \@footnotemark\@footnotetext}
+%\def\footnoterule{\kern-8\p@
+   %\hrule \@width 2in \kern 7.6\p@} % the \hrule is .4pt high
+\skip\footins=10mm\@plus3mm\@minus5mm
+\makeatother
 
 \newcommand{\forceindent}{\leavevmode{\parindent=1.5em\indent}}
 %\newcommand{\mito}[2]{{\centering\versal{Mito\,#1 (M#1): #2}\label{#1}\medskip\par}}
