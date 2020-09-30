@@ -1,0 +1,59 @@
+\documentclass[showtrims,12pt,conselho,spreadimages]{memoir}
+
+\usepackage[vieira]{hedraoptions} %% << %%%%%%%%%%%%%%%%
+\usepackage[baruch]{hedrastyles}
+\usepackage[xetex,chicagofootnotes]{tipografia}
+\usepackage[standart,compontinhos]{toc}
+\usepackage{hedraextra}
+\usepackage{penalidades}
+\usepackage{graficos}
+\usepackage{hedralogo}  
+\usepackage{hifensextras}
+\usepackage{fichatecnica}
+\usepackage[standart]{aparatos}
+\usepackage{tabelas}
+\usepackage{versos}
+\usepackage{gitrevisioninfo}
+
+
+
+\newcommand{\forceindent}{\leavevmode{\parindent=1.5em\indent}}
+%\newcommand{\mito}[2]{{\centering\versal{Mito\,#1 (M#1): #2}\label{#1}\medskip\par}}
+%\newcommand{\benzimento}[2]{{\centering\versal{Benzimento\,#1 (B#1): #2}\label{#1}\medskip\par}}
+%\newcommand{\sonho}[2]{{\centering\versal{Sonho\,#1 (S#1): #2}\label{#1}\medskip\par}}
+%\newcommand{\NL}[1]{%
+% \marginpar[\raggedleft\tiny #1]{\raggedright\tiny #1}}
+
+\setcounter{tocdepth}{0}     % amplitude da presença das partes no índice
+\setcounter{secnumdepth}{-2} % amplitude da numeração das partes
+
+\makeatletter
+\newenvironment{Parskip}{%
+   \par
+   \parskip=0.5\baselineskip \advance\parskip by 0pt plus 2pt
+   \parindent=\z@
+   \def\@listI{\leftmargin\leftmargini
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \let\@listi\@listI
+   \@listi
+   \def\@listii{\leftmargin\leftmarginii
+      \labelwidth\leftmarginii\advance\labelwidth-\labelsep
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \def\@listiii{\leftmargin\leftmarginiii
+       \labelwidth\leftmarginiii\advance\labelwidth-\labelsep
+       \topsep\z@ \parsep\parskip \itemsep\z@}
+   \partopsep=\z@
+}{\par}
+\makeatother
+
+\newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
+
+\begin{document}
+
+\include{INPUTS}
+
+\end{document}
