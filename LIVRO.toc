@@ -1,0 +1,24 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Apresentação, \textit {por Peter Schröder}}{9}%
+\contentsline {section}{Sobre esta edição}{15}%
+\contentsline {chapter}{Nota sobre a tradução, \emph {por Erik Petschelies}}{19}%
+\contentsline {part}{Os aruaques}{25}%
+\contentsline {chapter}{Considerações metodológicas preliminares}{27}%
+\contentsline {chapter}{Exposição geral}{33}%
+\contentsline {chapter}{Motivos da expansão}{51}%
+\contentsline {chapter}{Meios para a expansão}{65}%
+\contentsline {chapter}{A essência da expansão}{103}%
+\contentsline {chapter}{A relação com as demais culturas}{111}%
+\contentsline {chapter}{Os bens culturais individuais}{123}%
+\contentsline {chapter}{Resultado final}{137}%
+\contentsline {part}{Apêndice}{143}%
+\contentsline {chapter}{Caminhos próprios, \textit {por Michael Kraus}}{145}%
+\contentsline {section}{Contextualização i}{147}%
+\contentsline {paragraph}{Expedições e lobos solitários}{147}%
+\contentsline {section}{Contextualização ii}{158}%
+\contentsline {paragraph}{Os debates contemporâneos~na~etnologia~alemã}{158}%
+\contentsline {section}{Contextualização iii}{167}%
+\contentsline {paragraph}{Correntes contemporâneas na investigação alemã das terras baixas sul-americanas}{167}%
+\contentsline {section}{Documentos não publicados}{176}%
+\contentsline {chapter}{Max Schmidt: os últimos dias, \textit {por Paulo de \textsc {c}. Neto}}{183}%
+\babel@toc {brazilian}{}
