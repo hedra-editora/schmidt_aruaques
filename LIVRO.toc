@@ -3,11 +3,11 @@
 \contentsline {section}{Sobre esta edição}{15}%
 \contentsline {chapter}{Nota sobre a tradução, \emph {por Erik Petschelies}}{19}%
 \contentsline {part}{Os aruaques}{25}%
-\contentsline {chapter}{Considerações metodológicas preliminares}{27}%
-\contentsline {chapter}{Exposição geral}{33}%
-\contentsline {chapter}{Motivos da expansão}{51}%
-\contentsline {chapter}{Meios para a expansão}{65}%
-\contentsline {chapter}{A essência da expansão}{103}%
+\contentsline {chapter}{Primeiras considerações}{27}%
+\contentsline {chapter}{A cultura aruaque}{33}%
+\contentsline {chapter}{A expansão}{51}%
+\contentsline {chapter}{Os meios para expandir}{65}%
+\contentsline {chapter}{A essência efetiva}{103}%
 \contentsline {chapter}{A relação com as demais culturas}{111}%
 \contentsline {chapter}{Os bens culturais individuais}{123}%
 \contentsline {chapter}{Resultado final}{137}%

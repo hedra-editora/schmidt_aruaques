@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  19 SEP 2021 00:52
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  19 SEP 2021 13:36
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1057,21 +1057,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+) [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-LaTeX Font Warning: Font shape `TU/Formular(0)/m/sc' undefined
-(Font)              using `TU/Formular(0)/m/n' instead on input line 41.
-
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-(./2-creditos.tex
+] (./2-creditos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
@@ -1137,14 +1126,14 @@ Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
 (fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
 p;"
 
+luaotfload | aux : font no 96 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 97 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 98 (nil) does not define feature smcp for script latn
+ with language dflt
 luaotfload | aux : font no 99 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : font no 100 (nil) does not define feature smcp for script lat
-n with language dflt
-luaotfload | aux : font no 101 (nil) does not define feature smcp for script lat
-n with language dflt
-luaotfload | aux : font no 102 (nil) does not define feature smcp for script lat
-n with language dflt
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [].
@@ -1178,11 +1167,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 22.
+(Font)              <10.95> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 24.
  [9] [10] [11] [12] [13] [14] [15] [16] [17])
 (./NOTA.tex [18] [19
 
@@ -1276,38 +1265,32 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 \tf@toc=\write5
 
 \openout5 = LIVRO.toc
-(./LIVRO.aux (./INPUTS.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-)
+(./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13586 strings out of 480992
- 100000,1144653 words of node,token memory allocated
+ 13578 strings out of 480992
+ 100000,794899 words of node,token memory allocated
  5030 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 301 glue, 3 kern, 1 glyph, 604 attribute, 188 glue_
 spec, 303 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:850,3:151,4:57,5:2930,6:26,7:8719,8:2,9:765,10:27,11:782
- 30538 multiletter control sequences out of 65536+600000
- 179 fonts using 34497619 bytes
- 53i,12n,102p,1246b,417s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:1,2:814,3:150,4:57,5:2924,6:29,7:8719,8:2,9:748,10:28,11:782
+ 30532 multiletter control sequences out of 65536+600000
+ 178 fonts using 34360811 bytes
+ 53i,14n,102p,1247b,417s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
-nPro-Subh.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Library/Fonts/Ti
-mes New Roman.ttf></Users/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/L
-ibrary/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/Formular-Bold.ot
-f></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts
-/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/
-suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fo
-nts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/f
-onts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fo
-nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (186 pages, 754564 bytes).
+nPro-Bold.otf></Library/Fonts/Times New Roman.ttf></Users/suzana/Library/Fonts/M
+inionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzan
+a/Library/Fonts/Formular-Regular.otf></Users/suzana/Library/Fonts/MinionPro-ItCa
+pt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fo
+nts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></usr/
+local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (186 pages, 729041 bytes).
 
-PDF statistics: 685 PDF objects out of 1000 (max. 8388607)
- 453 compressed objects within 5 object streams
+PDF statistics: 671 PDF objects out of 1000 (max. 8388607)
+ 445 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

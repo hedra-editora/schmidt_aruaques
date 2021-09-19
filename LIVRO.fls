@@ -220,8 +220,6 @@ INPUT ./INPUTS.tex
 INPUT ./INPUTS.tex
 INPUT ./1-fronte.tex
 INPUT ./1-fronte.tex
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./2-creditos.tex
@@ -244,14 +242,12 @@ INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/font
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-bolditsubh.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-boldsubh.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-itsubh.luc
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-disp.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman-bold-italic.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman-bold.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman-italic.luc
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono9-regular.luc
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 INPUT ./APRESENTACAO.tex
