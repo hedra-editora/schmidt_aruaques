@@ -4,8 +4,13 @@
 \contentsline {section}{Da estrutura inicial}{11}%
 \contentsline {section}{Os mecanismos da expansão}{12}%
 \contentsline {section}{Inserir um nome aqui}{14}%
+<<<<<<< HEAD
 \contentsline {section}{Sobre esta edição}{15}%
 \contentsline {section}{Sobre Schmidt}{16}%
+=======
+\contentsline {section}{Sobre esta edição}{16}%
+\contentsline {section}{Sobre Schmidt}{17}%
+>>>>>>> 25bb0b3eaf23f0b788ccf31fb08b4d15db3a2e2a
 \contentsline {chapter}{Nota sobre a tradução, \emph {por Erik Petschelies}}{19}%
 \contentsline {part}{Os aruaques}{25}%
 \contentsline {chapter}{Primeiras considerações}{27}%

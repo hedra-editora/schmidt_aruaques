@@ -214,6 +214,7 @@ INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 INPUT ./APRESENTACAO.tex
 INPUT ./APRESENTACAO.tex
+<<<<<<< HEAD
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -223,6 +224,20 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+=======
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT ./TABELA.png
+INPUT ./TABELA.png
+INPUT ./TABELA.png
+>>>>>>> 25bb0b3eaf23f0b788ccf31fb08b4d15db3a2e2a
 INPUT ./NOTA.tex
 INPUT ./NOTA.tex
 INPUT ./TEXTO.tex
@@ -250,6 +265,11 @@ OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
 INPUT ./INPUTS.aux
+<<<<<<< HEAD
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
+=======
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
+>>>>>>> 25bb0b3eaf23f0b788ccf31fb08b4d15db3a2e2a
