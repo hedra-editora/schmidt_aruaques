@@ -1,6 +1,11 @@
 \thispagestyle {empty}
 \contentsline {chapter}{Apresentação, \textit {por Peter Schröder}}{9}%
-\contentsline {section}{Sobre esta edição}{15}%
+\contentsline {section}{O manuscrito}{10}%
+\contentsline {section}{Da estrutura inicial}{11}%
+\contentsline {section}{Os mecanismos da expansão}{12}%
+\contentsline {section}{Inserir um nome aqui}{14}%
+\contentsline {section}{Sobre esta edição}{16}%
+\contentsline {section}{Sobre Schmidt}{17}%
 \contentsline {chapter}{Nota sobre a tradução, \emph {por Erik Petschelies}}{19}%
 \contentsline {part}{Os aruaques}{25}%
 \contentsline {chapter}{Primeiras considerações}{27}%

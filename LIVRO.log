@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  22 SEP 2021 14:15
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  22 SEP 2021 15:15
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1167,13 +1167,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 24.
+(Font)              <10.95> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 24.
+(Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 24.
- [9] [10] [11] [12] [13] [14] [15] [16] [17])
-(./NOTA.tex [18] [19
+(Font)              <6> on input line 15.
+ [9] [10] [11] [12]
+<./TABELA.png, id=51, 460.72125pt x 214.8025pt>
+File: ./TABELA.png Graphic file (type png)
+<use ./TABELA.png>
+Package luatex.def Info: ./TABELA.png  used on input line 72.
+(luatex.def)             Requested size: 275.0pt x 128.21385pt.
+ [13<./TABELA.png>] [14] [15]
+[16] [17]) (./NOTA.tex [18] [19
 
 ]
 
@@ -1218,7 +1224,7 @@ cul-tu-rais
 
 ]
 Underfull \hbox (badness 1320) in paragraph at lines 2529--2529
-[]\TU/MinionPro(0)/m/n/9 . []As-sim tam-bém em di-ver-sas tri-bos do 
+[]\TU/MinionPro(0)/m/n/9 . []As-sim tam-bém em di-ver-sas tri-bos do 
 rio Ne-gro, de acordo com
  []
 
@@ -1268,15 +1274,15 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13578 strings out of 480992
+ 13591 strings out of 480992
  100000,794899 words of node,token memory allocated
- 5030 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 301 glue, 3 kern, 1 glyph, 604 attribute, 188 glue_
-spec, 303 attribute_list, 3 shape, 3 write nodes
+ 5056 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 303 glue, 3 kern, 1 glyph, 608 attribute, 188 glue_
+spec, 305 attribute_list, 3 shape, 3 write nodes
    avail lists: 1:1,2:814,3:150,4:57,5:2924,6:29,7:8719,8:2,9:748,10:28,11:780
- 30532 multiletter control sequences out of 65536+600000
+ 30539 multiletter control sequences out of 65536+600000
  178 fonts using 34360811 bytes
- 53i,14n,102p,1247b,417s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 53i,14n,102p,1468b,417s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
 nPro-Bold.otf></Library/Fonts/Times New Roman.ttf></Users/suzana/Library/Fonts/M
@@ -1285,12 +1291,12 @@ a/Library/Fonts/Formular-Regular.otf></Users/suzana/Library/Fonts/MinionPro-ItCa
 pt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fo
 nts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></usr/
 local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
-/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (186 pages, 728984 bytes).
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
+>
+Output written on LIVRO.pdf (186 pages, 735409 bytes).
 
-PDF statistics: 671 PDF objects out of 1000 (max. 8388607)
- 445 compressed objects within 5 object streams
+PDF statistics: 668 PDF objects out of 1000 (max. 8388607)
+ 442 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
