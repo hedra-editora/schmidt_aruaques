@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.4.10)  29 SEP 2021 10:13
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.4.10)  29 SEP 2021 11:24
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1191,9 +1191,9 @@ LaTeX Warning: No positions in optional float specifier.
 Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
 Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 105.
+(Font)              <9> on input line 103.
  [28]
-Underfull \hbox (badness 1448) in paragraph at lines 114--122
+Underfull \hbox (badness 1448) in paragraph at lines 112--120
 []\TU/MinionPro(0)/m/n/10.95 Além disso, na mis-tura co-lo-rida de uni-da-des 
 cul-tu-rais
  []
@@ -1212,8 +1212,8 @@ cul-tu-rais
 [103
 
 ]
-Underfull \hbox (badness 1331) in paragraph at lines 2527--2527
-[]\TU/MinionPro(0)/m/n/9 . []As-sim tam-bém em di-ver-sas tri-bos do 
+Underfull \hbox (badness 1331) in paragraph at lines 2529--2529
+[]\TU/MinionPro(0)/m/n/9 . []As-sim tam-bém em di-ver-sas tri-bos do 
 rio Ne-gro, de acordo com
  []
 
@@ -1263,15 +1263,15 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13967 strings out of 481365
+ 13971 strings out of 481365
  100000,794899 words of node,token memory allocated
- 5251 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 318 glue, 3 kern, 1 glyph, 638 attribute, 188 glue_
-spec, 320 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:751,3:140,4:59,5:3499,6:28,7:7607,8:3,9:748,10:28,11:780
- 30110 multiletter control sequences out of 65536+600000
- 180 fonts using 34568779 bytes
- 51i,14n,96p,1247b,415s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 5368 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 327 glue, 3 kern, 1 glyph, 656 attribute, 188 glue_
+spec, 329 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:1,2:724,3:140,4:53,5:3448,6:28,7:7433,8:3,9:748,10:28,11:767
+ 30111 multiletter control sequences out of 65536+600000
+ 181 fonts using 34792635 bytes
+ 51i,14n,96p,1247b,413s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 itorial/texmf/tex/fonts/MinionPro-ItSubh.otf></home/editorial/texmf/tex/fonts/Mi
 nionPro-Bold.otf></home/editorial/texmf/tex/fonts/times.ttf></home/editorial/tex
@@ -1282,7 +1282,7 @@ f/tex/fonts/MinionPro-ItCapt.otf></home/editorial/texmf/tex/fonts/MinionPro-Capt
 xmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fonts/type1/arkan
 dis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (186 pages, 755120 bytes).
+Output written on LIVRO.pdf (186 pages, 755517 bytes).
 
 PDF statistics: 668 PDF objects out of 1000 (max. 8388607)
  442 compressed objects within 5 object streams
