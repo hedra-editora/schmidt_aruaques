@@ -7,23 +7,20 @@
 \contentsline {section}{O manuscrito}{16}%
 \contentsline {section}{Sobre esta edição}{17}%
 \contentsline {chapter}{Nota sobre a tradução, \emph {por Erik Petschelies}}{19}%
-\contentsline {part}{Os aruaques}{25}%
-\contentsline {chapter}{Primeiras considerações}{27}%
-\contentsline {chapter}{A cultura aruaque}{33}%
-\contentsline {chapter}{A expansão}{51}%
-\contentsline {chapter}{Os meios para expandir}{65}%
-\contentsline {chapter}{A essência efetiva}{103}%
-\contentsline {chapter}{A relação com as demais culturas}{111}%
-\contentsline {chapter}{Os bens culturais individuais}{123}%
-\contentsline {chapter}{Resultado final}{137}%
-\contentsline {part}{Apêndice}{143}%
-\contentsline {chapter}{Caminhos próprios, \textit {por Michael Kraus}}{145}%
-\contentsline {section}{Contextualização \textsc {i}}{147}%
-\contentsline {paragraph}{Expedições e lobos solitários}{147}%
-\contentsline {section}{Contextualização \textsc {ii}}{158}%
-\contentsline {paragraph}{Os debates contemporâneos~na~etnologia~alemã}{158}%
-\contentsline {section}{Contextualização \textsc {iii}}{167}%
-\contentsline {paragraph}{Correntes contemporâneas na investigação alemã das terras baixas sul-americanas}{167}%
-\contentsline {section}{Documentos não publicados}{176}%
-\contentsline {chapter}{Max Schmidt: os últimos dias, \textit {por Paulo de \textsc {c}. Neto}}{183}%
+\contentsline {part}{Os Aruaques}{23}%
+\contentsline {chapter}{Primeiras considerações}{25}%
+\contentsline {chapter}{A cultura aruaque}{31}%
+\contentsline {chapter}{A expansão}{49}%
+\contentsline {chapter}{Os meios para expandir}{63}%
+\contentsline {chapter}{A essência efetiva}{101}%
+\contentsline {chapter}{A relação com as demais culturas}{109}%
+\contentsline {chapter}{Os bens culturais individuais}{121}%
+\contentsline {chapter}{Resultado final}{135}%
+\contentsline {part}{Apêndice}{141}%
+\contentsline {chapter}{Caminhos próprios, \textit {por Michael Kraus}}{143}%
+\contentsline {section}{Expedições e lobos solitários}{145}%
+\contentsline {section}{Os debates contemporâneos~na~etnologia~alemã}{156}%
+\contentsline {section}{Correntes contemporâneas na investigação alemã das terras baixas sul-americanas}{166}%
+\contentsline {chapter}{Max Schmidt, de 1874 a 1950, \textit {por Herbert Baldus}}{175}%
+\contentsline {chapter}{Os últimos dias, \textit {por Paulo de Carvalho Neto}}{181}%
 \babel@toc {brazilian}{}
