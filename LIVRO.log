@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  30 SEP 2021 19:07
+=======
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  30 SEP 2021 00:41
+>>>>>>> 370ba17192d774ce9fca1772b30ded6773ce64ef
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1586,6 +1590,7 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
+<<<<<<< HEAD
  20352 strings out of 494480
  100000,794899 words of node,token memory allocated
  4678 words of node memory still in use:
@@ -1607,6 +1612,31 @@ Output written on LIVRO.pdf (184 pages, 979703 bytes).
 
 PDF statistics: 636 PDF objects out of 1000 (max. 8388607)
  422 compressed objects within 5 object streams
+=======
+ 13484 strings out of 480992
+ 100000,794899 words of node,token memory allocated
+ 5597 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 345 glue, 3 kern, 1 glyph, 692 attribute, 187 glue_
+spec, 347 attribute_list, 3 shape, 3 write nodes
+   avail lists: 2:581,3:140,4:63,5:2533,6:71,7:6995,8:3,9:749,10:28,11:796
+ 30426 multiletter control sequences out of 65536+600000
+ 135 fonts using 24903467 bytes
+ 53i,14n,102p,1247b,436s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
+ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
+nPro-Bold.otf></Library/Fonts/Times New Roman.ttf></Users/suzana/Library/Fonts/M
+inionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzan
+a/Library/Fonts/Formular-Regular.otf></Users/suzana/Library/Fonts/MinionPro-ItCa
+pt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fo
+nts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></usr/
+local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
+>
+Output written on LIVRO.pdf (184 pages, 1015700 bytes).
+
+PDF statistics: 664 PDF objects out of 1000 (max. 8388607)
+ 438 compressed objects within 5 object streams
+>>>>>>> 370ba17192d774ce9fca1772b30ded6773ce64ef
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
