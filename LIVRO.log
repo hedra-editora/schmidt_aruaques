@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  29 SEP 2021 23:54
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  30 SEP 2021 00:41
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1279,14 +1279,14 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 13482 strings out of 480992
+ 13484 strings out of 480992
  100000,794899 words of node,token memory allocated
  5597 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 345 glue, 3 kern, 1 glyph, 692 attribute, 187 glue_
 spec, 347 attribute_list, 3 shape, 3 write nodes
    avail lists: 2:581,3:140,4:63,5:2533,6:71,7:6995,8:3,9:749,10:28,11:796
- 30424 multiletter control sequences out of 65536+600000
- 134 fonts using 24633315 bytes
+ 30426 multiletter control sequences out of 65536+600000
+ 135 fonts using 24903467 bytes
  53i,14n,102p,1247b,436s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
@@ -1298,7 +1298,7 @@ nts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></usr/
 local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
 >
-Output written on LIVRO.pdf (184 pages, 1015691 bytes).
+Output written on LIVRO.pdf (184 pages, 1015700 bytes).
 
 PDF statistics: 664 PDF objects out of 1000 (max. 8388607)
  438 compressed objects within 5 object streams
