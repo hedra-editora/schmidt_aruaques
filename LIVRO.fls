@@ -165,6 +165,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
 INPUT ./edlab-penalties.sty
 INPUT ./edlab-penalties.sty
 INPUT ./edlab-git.sty
@@ -173,6 +175,8 @@ INPUT ./edlab-toc.sty
 INPUT ./edlab-toc.sty
 INPUT ./edlab-extra.sty
 INPUT ./edlab-extra.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 INPUT ./edlab-margins.sty
 INPUT ./edlab-margins.sty
 INPUT ./edlab-sections.sty
@@ -280,8 +284,11 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT ./Y-publicidade.tex
+INPUT ./Y-publicidade.tex
 INPUT ./Z-colofon.tex
 INPUT ./Z-colofon.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
