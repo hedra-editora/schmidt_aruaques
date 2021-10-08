@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  8 OCT 2021 10:49
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  8 OCT 2021 18:41
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1229,7 +1229,7 @@ Package luatex.def Info: ./FRONTISPICIO.pdf  used on input line 7.
 
 ] [36] [37]
 [38]
-Underfull \hbox (badness 2213) in paragraph at lines 356--356
+Underfull \hbox (badness 2213) in paragraph at lines 352--352
 \TU/MinionPro(0)/m/n/9 Koch-Grün-berg, por exem-plo, em sua dis-ser-ta-ção: 
 \TU/MinionPro(0)/m/it/9 Die Aru-aks-pra-chen
  []
@@ -1256,26 +1256,26 @@ Underfull \hbox (badness 2213) in paragraph at lines 356--356
 
 ] [130]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 3523.
+(Font)              <9> on input line 3519.
  [131
 
 ] [132] [133] [134] [135]
 [136] [137] [138] [139] [140] [141] [142]
-Underfull \hbox (badness 10000) in paragraph at lines 4012--4012
+Underfull \hbox (badness 10000) in paragraph at lines 4008--4008
 []\TU/MinionPro(0)/m/n/9 . []Gra-eb-ner, , p.--
 ; \TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/m/n/9 .\TU/MinionPro(
 0)/m/sc/9 \TU/MinionPro(0)/m/n/9 .Schmidt, . Ainda que
  []
 
 [143]
-Underfull \hbox (badness 3375) in paragraph at lines 4076--4076
+Underfull \hbox (badness 3375) in paragraph at lines 4072--4072
 []\TU/MinionPro(0)/m/n/9 . []Isso vale prin-ci-pal-mente para Foy, para tr
 a-ba-lhos pos-te-ri-o-res de
  []
 
 [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155]
 [156] [157] [158] [159] [160] [161]
-Underfull \hbox (badness 6808) in paragraph at lines 4843--4846
+Underfull \hbox (badness 6808) in paragraph at lines 4839--4842
 []\TU/MinionPro(0)/m/n/9 , Mark. Die eth-no-lo-gis-che Er-fors-chung des Alto Xi
 ngu. In:
  []
@@ -1288,10 +1288,10 @@ ngu. In:
 <./MAPA_P1.pdf, id=569, 307.1475pt x 560.5743pt>
 File: ./MAPA_P1.pdf Graphic file (type pdf)
 <use ./MAPA_P1.pdf>
-Package luatex.def Info: ./MAPA_P1.pdf  used on input line 5264.
+Package luatex.def Info: ./MAPA_P1.pdf  used on input line 5260.
 (luatex.def)             Requested size: 275.0pt x 501.929pt.
 
-Overfull \hbox (58.5626pt too wide) in paragraph at lines 5263--5266
+Overfull \hbox (58.5626pt too wide) in paragraph at lines 5259--5262
 []  [] 
  []
 
@@ -1303,7 +1303,7 @@ Overfull \vbox (28.5288pt too high) has occurred while \output is active []
 <./MAPA_P2.pdf, id=584, 306.9066pt x 560.5743pt>
 File: ./MAPA_P2.pdf Graphic file (type pdf)
 <use ./MAPA_P2.pdf>
-Package luatex.def Info: ./MAPA_P2.pdf  used on input line 5276.
+Package luatex.def Info: ./MAPA_P2.pdf  used on input line 5272.
 (luatex.def)             Requested size: 275.0pt x 502.33957pt.
 )
 Overfull \vbox (28.93936pt too high) has occurred while \output is active []
@@ -1376,7 +1376,7 @@ local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr
 /local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></us
 r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pf
 b>
-Output written on LIVRO.pdf (182 pages, 7713455 bytes).
+Output written on LIVRO.pdf (182 pages, 7713264 bytes).
 
 PDF statistics: 701 PDF objects out of 1000 (max. 8388607)
  447 compressed objects within 5 object streams
