@@ -1,27 +1,27 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Apresentação, \textit {por Peter Schröder}}{9}%
-\contentsline {section}{A estrutura e o método}{10}%
-\contentsline {section}{A análise da expansão}{12}%
-\contentsline {section}{Uma teoria funcionalista e dinâmica}{13}%
-\contentsline {section}{Schmidt para além da academia}{15}%
-\contentsline {section}{O manuscrito}{16}%
-\contentsline {section}{Sobre esta edição}{17}%
-\contentsline {chapter}{Nota sobre a tradução, \emph {por Erik Petschelies}}{21}%
-\contentsline {part}{Os Aruaques}{27}%
-\contentsline {chapter}{Primeiras considerações}{29}%
-\contentsline {chapter}{A cultura aruaque}{33}%
-\contentsline {chapter}{A expansão}{49}%
-\contentsline {chapter}{Os meios para expandir}{61}%
-\contentsline {chapter}{A essência efetiva}{93}%
-\contentsline {chapter}{A relação com as demais culturas}{101}%
-\contentsline {chapter}{Os bens culturais individuais}{111}%
-\contentsline {chapter}{Resultado final}{123}%
-\contentsline {part}{Apêndice}{127}%
-\contentsline {chapter}{Caminhos próprios, \textit {por Michael Kraus}}{129}%
-\contentsline {section}{Expedições e lobos solitários}{131}%
-\contentsline {section}{Os debates contemporâneos~na~etnologia~alemã}{140}%
-\contentsline {section}{Correntes contemporâneas na investigação alemã das terras baixas sul-americanas}{148}%
-\contentsline {section}{Documentos não publicados}{156}%
-\contentsline {chapter}{Max Schmidt, de 1874 a 1950, \textit {por Herbert Baldus}}{163}%
-\contentsline {chapter}{Os últimos dias, \textit {por Paulo de Carvalho Neto}}{169}%
+\contentsline {chapter}{Apresentação, \textit {por Peter Schröder}}{11}%
+\contentsline {section}{A estrutura e o método}{12}%
+\contentsline {section}{A análise da expansão}{14}%
+\contentsline {section}{Uma teoria funcionalista e dinâmica}{15}%
+\contentsline {section}{Schmidt para além da academia}{17}%
+\contentsline {section}{O manuscrito}{18}%
+\contentsline {section}{Sobre esta edição}{19}%
+\contentsline {chapter}{Nota sobre a tradução, \emph {por Erik Petschelies}}{23}%
+\contentsline {part}{Os Aruaques}{29}%
+\contentsline {chapter}{Primeiras considerações}{31}%
+\contentsline {chapter}{A cultura aruaque}{35}%
+\contentsline {chapter}{A expansão}{51}%
+\contentsline {chapter}{Os meios para expandir}{63}%
+\contentsline {chapter}{A essência efetiva}{95}%
+\contentsline {chapter}{A relação com as demais culturas}{103}%
+\contentsline {chapter}{Os bens culturais individuais}{113}%
+\contentsline {chapter}{Resultado final}{125}%
+\contentsline {part}{Apêndice}{129}%
+\contentsline {chapter}{Caminhos próprios, \textit {por Michael Kraus}}{131}%
+\contentsline {section}{Expedições e lobos solitários}{133}%
+\contentsline {section}{Os debates contemporâneos~na~etnologia~alemã}{142}%
+\contentsline {section}{Correntes contemporâneas na investigação alemã das terras baixas sul-americanas}{150}%
+\contentsline {section}{Documentos não publicados}{158}%
+\contentsline {chapter}{Max Schmidt, de 1874 a 1950, \textit {por Herbert Baldus}}{165}%
+\contentsline {chapter}{Os últimos dias, \textit {por Paulo de Carvalho Neto}}{171}%
 \babel@toc {brazilian}{}
