@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  8 OCT 2021 18:41
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  9 OCT 2021 18:01
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1206,11 +1206,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
  [11] [12] [13]
-<./TABELA.png, id=57, 476.78125pt x 214.8025pt>
+<./TABELA.png, id=57, 533.995pt x 258.9675pt>
 File: ./TABELA.png Graphic file (type png)
 <use ./TABELA.png>
 Package luatex.def Info: ./TABELA.png  used on input line 47.
-(luatex.def)             Requested size: 275.0pt x 123.90051pt.
+(luatex.def)             Requested size: 275.0pt x 133.36775pt.
  [14<./TABELA.png>] [15] [16] [17]
 [18] [19] [20]) (./NOTA.tex [21] [22
 
@@ -1376,7 +1376,7 @@ local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr
 /local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></us
 r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pf
 b>
-Output written on LIVRO.pdf (182 pages, 7713264 bytes).
+Output written on LIVRO.pdf (182 pages, 7715438 bytes).
 
 PDF statistics: 701 PDF objects out of 1000 (max. 8388607)
  447 compressed objects within 5 object streams
