@@ -1,5 +1,5 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Apresentação, \textit {por Peter Schröder}}{11}%
+\contentsline {chapter}{Introdução, \textit {por Peter Schröder}}{11}%
 \contentsline {section}{A estrutura e o método}{12}%
 \contentsline {section}{A análise da expansão}{14}%
 \contentsline {section}{Uma teoria funcionalista e dinâmica}{15}%
