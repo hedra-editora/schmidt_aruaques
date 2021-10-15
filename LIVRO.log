@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  12 OCT 2021 22:03
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  15 OCT 2021 14:26
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1256,26 +1256,26 @@ Underfull \hbox (badness 2213) in paragraph at lines 352--352
 
 ] [130]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 3519.
+(Font)              <9> on input line 3517.
  [131
 
 ] [132] [133] [134] [135]
 [136] [137] [138] [139] [140] [141] [142]
-Underfull \hbox (badness 10000) in paragraph at lines 4008--4008
+Underfull \hbox (badness 10000) in paragraph at lines 4006--4006
 []\TU/MinionPro(0)/m/n/9 . []Gra-eb-ner, , p.--
 ; \TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/m/n/9 .\TU/MinionPro(
 0)/m/sc/9 \TU/MinionPro(0)/m/n/9 .Schmidt, . Ainda que
  []
 
 [143]
-Underfull \hbox (badness 3375) in paragraph at lines 4072--4072
+Underfull \hbox (badness 3375) in paragraph at lines 4070--4070
 []\TU/MinionPro(0)/m/n/9 . []Isso vale prin-ci-pal-mente para Foy, para tr
 a-ba-lhos pos-te-ri-o-res de
  []
 
 [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155]
 [156] [157] [158] [159] [160] [161]
-Underfull \hbox (badness 6808) in paragraph at lines 4839--4842
+Underfull \hbox (badness 6808) in paragraph at lines 4836--4839
 []\TU/MinionPro(0)/m/n/9 , Mark. Die eth-no-lo-gis-che Er-fors-chung des Alto Xi
 ngu. In:
  []
@@ -1288,10 +1288,10 @@ ngu. In:
 <./MAPA_P1.pdf, id=569, 307.1475pt x 560.5743pt>
 File: ./MAPA_P1.pdf Graphic file (type pdf)
 <use ./MAPA_P1.pdf>
-Package luatex.def Info: ./MAPA_P1.pdf  used on input line 5260.
+Package luatex.def Info: ./MAPA_P1.pdf  used on input line 5258.
 (luatex.def)             Requested size: 275.0pt x 501.929pt.
 
-Overfull \hbox (58.5626pt too wide) in paragraph at lines 5259--5262
+Overfull \hbox (58.5626pt too wide) in paragraph at lines 5257--5260
 []  [] 
  []
 
@@ -1303,7 +1303,7 @@ Overfull \vbox (28.5288pt too high) has occurred while \output is active []
 <./MAPA_P2.pdf, id=584, 306.9066pt x 560.5743pt>
 File: ./MAPA_P2.pdf Graphic file (type pdf)
 <use ./MAPA_P2.pdf>
-Package luatex.def Info: ./MAPA_P2.pdf  used on input line 5272.
+Package luatex.def Info: ./MAPA_P2.pdf  used on input line 5270.
 (luatex.def)             Requested size: 275.0pt x 502.33957pt.
 )
 Overfull \vbox (28.93936pt too high) has occurred while \output is active []
@@ -1355,15 +1355,15 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13692 strings out of 480992
+ 13694 strings out of 480992
  125007,794899 words of node,token memory allocated
  5398 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 324 glue, 3 kern, 1 glyph, 652 attribute, 197 glue_
 spec, 327 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:2,2:1926,3:233,4:126,5:3007,6:87,7:8723,8:2,9:897,10:27,11:935
+   avail lists: 1:1,2:1926,3:233,4:126,5:3007,6:87,7:8719,8:2,9:897,10:28,11:935
 
- 30595 multiletter control sequences out of 65536+600000
- 143 fonts using 25973835 bytes
+ 30597 multiletter control sequences out of 65536+600000
+ 144 fonts using 26268883 bytes
  53i,12n,102p,1330b,487s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
@@ -1376,7 +1376,7 @@ local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr
 /local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></us
 r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pf
 b>
-Output written on LIVRO.pdf (182 pages, 7716065 bytes).
+Output written on LIVRO.pdf (182 pages, 7716181 bytes).
 
 PDF statistics: 701 PDF objects out of 1000 (max. 8388607)
  447 compressed objects within 5 object streams
