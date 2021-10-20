@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  19 OCT 2021 21:47
+=======
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  15 OCT 2021 14:26
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1395,7 +1399,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
+<<<<<<< HEAD
 <./ABERTURA.png>]) (./2-creditos.tex
+=======
+<./ABERTURA.png>] [2]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Formular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) [3] (./2-creditos.tex
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
 Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
@@ -1432,6 +1445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--55
 
  []
 
+<<<<<<< HEAD
 ) [2] (./3-rosto.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
@@ -1493,13 +1507,80 @@ eric/fonts/otl/timesi.luc)
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 . <->"TimesNewRoman/BI:mode=node;script=latn;language=DFLT;+smcp;"
 .................................................
+=======
+) [4] (./3-rosto.tex
+
+Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
+(fontspec)             Pro' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;+smcp;"
+
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;+smcp
+;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;+smcp
+;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
+p;"
+
+luaotfload | aux : font no 98 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 99 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 100 (nil) does not define feature smcp for script lat
+n with language dflt
+luaotfload | aux : font no 101 (nil) does not define feature smcp for script lat
+n with language dflt
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"TimesNewRoman:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"TimesNewRoman/B:mode=node;script=latn;language=dflt;"
+
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"TimesNewRoman/I:mode=node;script=latn;language=dflt;"
+
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"TimesNewRoman/BI:mode=node;script=latn;language=dflt;
+"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `TimesNewRoman' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+<<<<<<< HEAD
 ) [3] (./PRETAS.tex(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/ge
 neric/fonts/otl/lmmono9-regular.luc) [4]) [5] [6] (./LIVRO.toc) [7] (./APRESENT
 ACAO.tex [8
+=======
+) [5] (./PRETAS.tex [6]) [7] [8] (./LIVRO.toc) [9]
+(./APRESENTACAO.tex [10
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
 
 
 ]
@@ -1509,6 +1590,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
+<<<<<<< HEAD
  [9]
 [10] [11]
 <./TABELA.png, id=47, 476.78125pt x 214.8025pt>
@@ -1534,51 +1616,79 @@ File: ./FRONTISPICIO.pdf Graphic file (type pdf)
 Package luatex.def Info: ./FRONTISPICIO.pdf  used on input line 7.
 (luatex.def)             Requested size: 275.0pt x 457.6292pt.
  [25<./FRONTISPICIO.pdf>] [26] [27
+=======
+ [11] [12] [13]
+<./TABELA.png, id=57, 533.995pt x 258.9675pt>
+File: ./TABELA.png Graphic file (type png)
+<use ./TABELA.png>
+Package luatex.def Info: ./TABELA.png  used on input line 47.
+(luatex.def)             Requested size: 275.0pt x 133.36775pt.
+ [14<./TABELA.png>] [15] [16] [17]
+[18] [19] [20]) (./NOTA.tex [21] [22
 
-] [28] [29
+] [23] [24] [25]) (./TEXTO.tex [26]
+<./FRONTISPICIO.pdf, id=98, 405.1938pt x 674.2791pt>
+File: ./FRONTISPICIO.pdf Graphic file (type pdf)
+<use ./FRONTISPICIO.pdf>
+Package luatex.def Info: ./FRONTISPICIO.pdf  used on input line 7.
+(luatex.def)             Requested size: 275.0pt x 457.62918pt.
 
+[27<./FRONTISPICIO.pdf>] [28] [29
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
+
+] [30] [31
+
+<<<<<<< HEAD
 ] [30] [31]
 [32] [33
 
 ] [34] [35] [36]
 Underfull \hbox (badness 2205) in paragraph at lines 356--356
+=======
+] [32] [33] [34] [35
+
+] [36] [37]
+[38]
+Underfull \hbox (badness 2213) in paragraph at lines 352--352
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
 \TU/MinionPro(0)/m/n/9 Koch-Grün-berg, por exem-plo, em sua dis-ser-ta-ção: 
 \TU/MinionPro(0)/m/it/9 Die Aru-aks-pra-chen
  []
 
-[37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48
+[39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50
 
-] [49] [50] [51]
-[52] [53] [54] [55] [56] [57] [58] [59] [60] [61
+] [51] [52] [53]
+[54] [55] [56] [57] [58] [59] [60] [61] [62] [63
 
-] [62] [63] [64] [65] [66]
-[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
-[82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92
+] [64] [65] [66] [67] [68]
+[69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83]
+[84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94
 
-] [93] [94] [95] [96]
-[97] [98] [99] [100
+] [95] [96] [97] [98]
+[99] [100] [101] [102
 
-] [101] [102] [103] [104] [105] [106] [107] [108] [109]
-[110] [111
+] [103] [104] [105] [106] [107] [108] [109] [110] [111]
+[112] [113
 
-] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
-[122
+] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
+[124
 
-] [123] [124] [125] [126] [127
+] [125] [126] [127] [128] [129
 
-] [128]
+] [130]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 3523.
- [129
+(Font)              <9> on input line 3517.
+ [131
 
-] [130] [131] [132] [133]
-[134] [135] [136] [137] [138] [139] [140]
-Underfull \hbox (badness 10000) in paragraph at lines 4012--4012
+] [132] [133] [134] [135]
+[136] [137] [138] [139] [140] [141] [142]
+Underfull \hbox (badness 10000) in paragraph at lines 4006--4006
 []\TU/MinionPro(0)/m/n/9 . []Gra-eb-ner, , p.--
 ; \TU/MinionPro(0)/m/sc/9 \TU/MinionPro(0)/m/n/9 .\TU/MinionPro(
 0)/m/sc/9 \TU/MinionPro(0)/m/n/9 .Schmidt, . Ainda que
  []
 
+<<<<<<< HEAD
 [141]
 Underfull \hbox (badness 3364) in paragraph at lines 4076--4076
 []\TU/MinionPro(0)/m/n/9 . []Isso vale prin-ci-pal-mente para Foy, para t
@@ -1590,20 +1700,42 @@ ra-ba-lhos pos-te-ri-o-res de
 Underfull \hbox (badness 6792) in paragraph at lines 4843--4846
 []\TU/MinionPro(0)/m/n/9 , Mark. Die eth-no-lo-gis-che Er-fors-chung des Alto X
 ingu. In:
+=======
+[143]
+Underfull \hbox (badness 3375) in paragraph at lines 4070--4070
+[]\TU/MinionPro(0)/m/n/9 . []Isso vale prin-ci-pal-mente para Foy, para tr
+a-ba-lhos pos-te-ri-o-res de
  []
 
-[160] [161] [162] [163
+[144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155]
+[156] [157] [158] [159] [160] [161]
+Underfull \hbox (badness 6808) in paragraph at lines 4836--4839
+[]\TU/MinionPro(0)/m/n/9 , Mark. Die eth-no-lo-gis-che Er-fors-chung des Alto Xi
+ngu. In:
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
+ []
 
-] [164] [165] [166] [167] [168
+[162] [163] [164] [165
 
+] [166] [167] [168] [169] [170
+
+<<<<<<< HEAD
 ] [169] [170] [171]
 <./MAPA_P1.pdf, id=560, 307.1475pt x 560.57428pt>
 File: ./MAPA_P1.pdf Graphic file (type pdf)
 <use ./MAPA_P1.pdf>
 Package luatex.def Info: ./MAPA_P1.pdf  used on input line 5264.
 (luatex.def)             Requested size: 275.0pt x 501.92899pt.
+=======
+] [171] [172] [173]
+<./MAPA_P1.pdf, id=569, 307.1475pt x 560.5743pt>
+File: ./MAPA_P1.pdf Graphic file (type pdf)
+<use ./MAPA_P1.pdf>
+Package luatex.def Info: ./MAPA_P1.pdf  used on input line 5258.
+(luatex.def)             Requested size: 275.0pt x 501.929pt.
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
 
-Overfull \hbox (58.5626pt too wide) in paragraph at lines 5263--5266
+Overfull \hbox (58.5626pt too wide) in paragraph at lines 5257--5260
 []  [] 
  []
 
@@ -1611,22 +1743,31 @@ Overfull \hbox (58.5626pt too wide) in paragraph at lines 5263--5266
 Overfull \vbox (28.52878pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
 [172<./MAPA_P1.pdf>]
 <./MAPA_P2.pdf, id=576, 306.90662pt x 560.57428pt>
 File: ./MAPA_P2.pdf Graphic file (type pdf)
 <use ./MAPA_P2.pdf>
 Package luatex.def Info: ./MAPA_P2.pdf  used on input line 5276.
 (luatex.def)             Requested size: 275.0pt x 502.33955pt.
+=======
+[174<./MAPA_P1.pdf>]
+<./MAPA_P2.pdf, id=584, 306.9066pt x 560.5743pt>
+File: ./MAPA_P2.pdf Graphic file (type pdf)
+<use ./MAPA_P2.pdf>
+Package luatex.def Info: ./MAPA_P2.pdf  used on input line 5270.
+(luatex.def)             Requested size: 275.0pt x 502.33957pt.
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
 )
 Overfull \vbox (28.93935pt too high) has occurred while \output is active []
 
 
-[173<./MAPA_P2.pdf>] (./Y-publicidade.tex [174]
+[175<./MAPA_P2.pdf>] (./Y-publicidade.tex [176]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
-[175] [176]
+[177] [178]
 Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
@@ -1636,7 +1777,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-[177] [178]) [179] (./Z-colofon.tex)) [180]
+[179] [180]) [181] (./Z-colofon.tex)) [182]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1667,6 +1808,7 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
+<<<<<<< HEAD
  20556 strings out of 494480
  100000,794899 words of node,token memory allocated
  4727 words of node memory still in use:
@@ -1689,6 +1831,33 @@ Output written on LIVRO.pdf (180 pages, 7676951 bytes).
 
 PDF statistics: 669 PDF objects out of 1000 (max. 8388607)
  429 compressed objects within 5 object streams
+=======
+ 13694 strings out of 480992
+ 125007,794899 words of node,token memory allocated
+ 5398 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 324 glue, 3 kern, 1 glyph, 652 attribute, 197 glue_
+spec, 327 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:1,2:1926,3:233,4:126,5:3007,6:87,7:8719,8:2,9:897,10:28,11:935
+
+ 30597 multiletter control sequences out of 65536+600000
+ 144 fonts using 26268883 bytes
+ 53i,12n,102p,1330b,487s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
+ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
+nPro-Bold.otf></Library/Fonts/Times New Roman.ttf></Users/suzana/Library/Fonts/M
+inionPro-It.otf></Users/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzan
+a/Library/Fonts/Formular-Regular.otf></Users/suzana/Library/Fonts/MinionPro-ItCa
+pt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fo
+nts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></usr/
+local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr
+/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pf
+b>
+Output written on LIVRO.pdf (182 pages, 7716181 bytes).
+
+PDF statistics: 701 PDF objects out of 1000 (max. 8388607)
+ 447 compressed objects within 5 object streams
+>>>>>>> 48d89adc9b0d063eccbf69c8b3612e2a10a65dba
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
